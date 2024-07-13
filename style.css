@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+h2,a {
+    text-align: center;
+    margin-top: 120px;
+    color: green;
+    text-decoration: none;
+}
+h2 a:hover {
+    color: red; 
+    text-decoration: 1px solid underline;
+}
+table {
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 10px 20px;
+    width: 600px;
+    height: 200px;
+    margin: 40px auto;
+    margin-top: 0px;
+}
+table,td {
+    border: 1px solid black;
+}
+td {
+    padding: 15px; 
+    text-align: center; 
+    color: white; 
+}
+.n1 { background-color: teal; }
+.n2 { background-color: brown; }
+.n3 { background-color: cyan; }
+.n4 { background-color: blue; }
+.n5 { background-color: rgb(2, 88, 2); }
+.n6 { background-color: rgb(194, 7, 7); }
+.n7 { background-color: orange; }
+.n8 { background-color: blue; }
+.n9 { background-color: pink; }
